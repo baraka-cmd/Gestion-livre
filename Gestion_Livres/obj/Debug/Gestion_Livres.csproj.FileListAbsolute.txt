@@ -1,0 +1,15 @@
+c:\users\baraka\documents\visual studio 2012\Projects\Gestion_Livres\Gestion_Livres\bin\Debug\Gestion_Livres.exe.config
+c:\users\baraka\documents\visual studio 2012\Projects\Gestion_Livres\Gestion_Livres\bin\Debug\Gestion_Livres.exe
+c:\users\baraka\documents\visual studio 2012\Projects\Gestion_Livres\Gestion_Livres\bin\Debug\Gestion_Livres.pdb
+c:\users\baraka\documents\visual studio 2012\Projects\Gestion_Livres\Gestion_Livres\obj\Debug\Gestion_Livres.csprojResolveAssemblyReference.cache
+c:\users\baraka\documents\visual studio 2012\Projects\Gestion_Livres\Gestion_Livres\obj\Debug\Gestion_Livres.FrmDashboard.resources
+c:\users\baraka\documents\visual studio 2012\Projects\Gestion_Livres\Gestion_Livres\obj\Debug\Gestion_Livres.Properties.Resources.resources
+c:\users\baraka\documents\visual studio 2012\Projects\Gestion_Livres\Gestion_Livres\obj\Debug\Gestion_Livres.UCDashboard.resources
+c:\users\baraka\documents\visual studio 2012\Projects\Gestion_Livres\Gestion_Livres\obj\Debug\Gestion_Livres.UCGestionAuteurs.resources
+c:\users\baraka\documents\visual studio 2012\Projects\Gestion_Livres\Gestion_Livres\obj\Debug\Gestion_Livres.UCGestionLivres.resources
+c:\users\baraka\documents\visual studio 2012\Projects\Gestion_Livres\Gestion_Livres\obj\Debug\Gestion_Livres.csproj.GenerateResource.Cache
+c:\users\baraka\documents\visual studio 2012\Projects\Gestion_Livres\Gestion_Livres\obj\Debug\Gestion_Livres.exe
+c:\users\baraka\documents\visual studio 2012\Projects\Gestion_Livres\Gestion_Livres\obj\Debug\Gestion_Livres.pdb
+C:\Users\BARAKA\documents\visual studio 2012\Projects\Gestion_Livres\Gestion_Livres\obj\Debug\Gestion_Livres.Livres.resources
+C:\Users\BARAKA\documents\visual studio 2012\Projects\Gestion_Livres\Gestion_Livres\obj\Debug\Gestion_Livres.UCGestionEcrire.resources
+C:\Users\BARAKA\documents\visual studio 2012\Projects\Gestion_Livres\Gestion_Livres\obj\Debug\Gestion_Livres.UCRapportLivresSansAuteur.resources
